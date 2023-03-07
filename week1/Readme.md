@@ -15,7 +15,9 @@ Bước 4: hãy thực hiện các tác vụ truy vấn sau
 - Phường nào có biến động dân số chậm nhất
 - Phường nào có mật độ dân số cao nhất (2019)
 - Phường nào có mật độ dân số thấp nhất (2019)
+
 ///---------------------------------------------------------///
+
 Assignment 2:
 Bước 1: Cài đặt geopandas và folium
 
@@ -24,7 +26,9 @@ Bước 3: dùng geopandas để đọc shapefile trong /Data/GIS/Population/pop
 
 Bước 4: hãy thực hiện vẽ ranh giới các quận lên bản đồ dựa theo hướng dẫn sau:
 https://geopandas.readthedocs.io/en/latest/gallery/polygon_plotting_with_folium.html
+
 ///---------------------------------------------------------///
+
 Assignment 3:
 Bước 1: Cài đặt các thư viện cần thiết
 
